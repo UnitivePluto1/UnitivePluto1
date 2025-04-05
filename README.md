@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! My name is Adivya Tripathi and I'm an Artificial Intelligence and Machine Learning enthusiast :D</h2>
-
+<h1 align="center">Hi 👋, I'm Adivya Tripathi</h1>
+<h3 align="center">Hi 👋! My name is Adivya Tripathi and I'm an Artificial Intelligence and Machine Learning enthusiast :D</h3>
 ###
 
 <div align="center">
