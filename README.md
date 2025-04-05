@@ -53,6 +53,13 @@
 ###
 
 <br clear="both">
+<p align="center">
+  <strong>🐍 240 Contributions in 2025</strong>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UnitivePluto1/UnitivePluto1/output/snake.svg" alt="Snake animation" />
+</p>
 
 <img src="https://raw.githubusercontent.com/UnitivePluto1/UnitivePluto1/output/snake.svg" alt="Snake animation" />
 
