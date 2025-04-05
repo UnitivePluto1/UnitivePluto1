@@ -17,7 +17,7 @@
 <img align="right" height="150" src="https://i.pinimg.com/736x/fb/ef/d9/fbefd954815f4163c0447682c9fcdf5f.jpg"  />
 
 ###
-<h1 align="center">Languages, Frameworks and Tools I am proficient in</h1>
+<h2 align="left">Languages, Frameworks and Tools I am proficient in</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
