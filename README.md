@@ -2,22 +2,19 @@
   <img src="assets/Gif2.gif" alt="Well, Hello there!" width="1200" />
   <img height="20" />
 </p>
-
-
 <h1 align="center">Nice to meet you!</h1>
-<h3 align="center">Hi! My name is Adivya Tripathi and I'm an Artificial Intelligence and Machine Learning enthusiast :D</h3>
+<h3 align="center"><b>Hi! 👋 I'm Adivya Tripathi.</b><br> I'm an <b>Artificial Intelligence</b>, <b>Machine Learning</b> and <b>Backend Development</b> enthusiast 😄<br/>
+P.s. Currently learning Django :upside_down_face:</h3>
 
 
-<div align="center">
+<div align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=UnitivePluto1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img height="150" src="https://i.pinimg.com/736x/33/aa/de/33aade5720bba354fbf841a9b780709a.jpg"  />
 </div>
 
 
-
-<img align="right" height="150" src="https://i.pinimg.com/736x/fb/ef/d9/fbefd954815f4163c0447682c9fcdf5f.jpg"  />
-
-<div align="center">
-  <h3 align="left">🚀 Languages, Frameworks & Tools:</h3>
+<div align="left">
+  <h3 align="left">🖥️ Languages, Frameworks & Tools:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
@@ -38,29 +35,30 @@
 </div>
 
 
-<div align="center">
-  <h3 align="left">🚀 How to contact me:</h3>
+<div align="left">
+  <h3 align="left">☎️ How to contact me:</h3>
   <a href="https://discord.com/users/unitivepluto659" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
+   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" height="30" alt="Discord Icon" />
   </a>
+  <img width="12" />
   <a href="mailto:adivyatripathi93@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" alt="Gmail Icon" />
   </a>
+  <img width="12" />
   <a href="https://www.linkedin.com/in/adivya-tripathi-6419b628a/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" alt="LinkedIn Icon" />
+    <img width="12" />
 </div>
-
-###
-
-<br clear="both">
 <p align="center">
-  <strong>🐍 240 Contributions in 2025</strong>
+  <strong>🐍 238 Contributions in 2025</strong>
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/UnitivePluto1/UnitivePluto1/output/snake.svg" alt="Snake animation" />
 </p>
 
-<img src="https://raw.githubusercontent.com/UnitivePluto1/UnitivePluto1/output/snake.svg" alt="Snake animation" />
+<hr />
 
-###
+<p align="center" style="color:#ff8c00; font-family: 'Orbitron', sans-serif; font-size: 16px;">
+  ✨ Thanks for visiting, See ya next time!✨<br/>
+  <span style="font-size:14px;">Made with ❤️ and a bit of coffee.</span>
+</p>
