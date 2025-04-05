@@ -8,7 +8,7 @@
 
 
 <div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=UnitivePluto1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=UnitivePluto1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&cache_bust=1" height="150" alt="stats graph"  />
   <img height="150" src="https://i.pinimg.com/736x/33/aa/de/33aade5720bba354fbf841a9b780709a.jpg"  />
 </div>
 
@@ -50,7 +50,7 @@
     <img width="12" />
 </div>
 <p align="center">
-  <strong>🐍 239 Contributions in 2025</strong>
+  <strong>🐍 262 Contributions in 2025</strong>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/UnitivePluto1/UnitivePluto1/output/snake.svg" alt="Snake animation" />
