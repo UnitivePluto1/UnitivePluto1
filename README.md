@@ -3,8 +3,8 @@
   <img height="20" />
 </p>
 <h1 align="center">Nice to meet you!</h1>
-<h3 align="center"><b>Hi! 👋 I'm Adivya Tripathi.</b><br> I'm an <b>Artificial Intelligence</b>, <b>Machine Learning</b> and <b>Backend Development</b> enthusiast 😄<br/>
-P.s. Currently learning Django :upside_down_face:</h3>
+<h3 align="center"><b>Hi! 👋 I'm Adivya Tripathi.</b><br> An <b>Artificial Intelligence</b>, <b>Machine Learning</b> and <b>Backend Development</b> enthusiast 😄<br/>
+🌱 P.s. Currently learning Django 🙃</h3>
 
 
 <div align="center" >
@@ -50,7 +50,7 @@ P.s. Currently learning Django :upside_down_face:</h3>
     <img width="12" />
 </div>
 <p align="center">
-  <strong>🐍 238 Contributions in 2025</strong>
+  <strong>🐍 239 Contributions in 2025</strong>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/UnitivePluto1/UnitivePluto1/output/snake.svg" alt="Snake animation" />
