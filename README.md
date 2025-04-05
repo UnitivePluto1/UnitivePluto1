@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="neon-howdy.gif" alt="Howdy Partner Neon" />
+  <img src="assets/gif.gif" alt="Well, Hello there!" />
 </p>
 
 
