@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://i.pinimg.com/736x/fb/ef/d9/fbefd954815f4163c0447682c9fcdf5f.jpg)"  />
+<img align="right" height="150" src="https://i.pinimg.com/736x/fb/ef/d9/fbefd954815f4163c0447682c9fcdf5f.jpg"  />
 
 ###
 
@@ -43,8 +43,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.png" height="30" alt="scikit-learn logo" />
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
