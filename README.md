@@ -6,7 +6,7 @@
 <h3 align="center"><b>Hi! 👋 I'm Adivya Tripathi.</b><br> An <b>Artificial Intelligence</b>, <b>Machine Learning</b> and <b>Backend Development</b> enthusiast 😄<br/>
 🌱 P.s. Currently learning Django 🙃</h3>
 
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=UnitivePluto1)
 <div align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=UnitivePluto1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&cache_bust=1" height="150" alt="stats graph"  />
   <img height="150" src="https://i.pinimg.com/736x/33/aa/de/33aade5720bba354fbf841a9b780709a.jpg"  />
