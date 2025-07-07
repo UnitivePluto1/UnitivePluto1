@@ -3,7 +3,7 @@
   <img height="20" />
 </p>
 <h1 align="center">Nice to meet you!</h1>
-<h3 align="center"><b>Hi! 👋 I'm Adivya Tripathi.</b><br> An <b>Artificial Intelligence</b>, <b>Machine Learning</b> and <b>Backend Development</b> enthusiast 😄<br/>
+<h3 align="center"><b>Hi! 👋 I'm Adivya Tripathi.</b><br> I'm an enthusiast in <b>Artificial Intelligence</b>, <b>Machine Learning</b> and <b>Backend Development</b> 😄<br/>
 🌱 P.s. Currently learning Django 🙃</h3>
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=UnitivePluto1)
