@@ -12,7 +12,7 @@
   <img height="150" src="https://i.pinimg.com/736x/33/aa/de/33aade5720bba354fbf841a9b780709a.jpg"  />
 </div>
 
-
+# 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
@@ -27,17 +27,10 @@
 
 <div align="left">
   <h3 align="left">☎️ How to contact me:</h3>
-  <a href="https://discord.com/users/unitivepluto659" target="_blank">
-   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" height="30" alt="Discord Icon" />
-  </a>
-  <img width="12" />
-  <a href="mailto:adivyatripathi93@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" alt="Gmail Icon" />
-  </a>
-  <img width="12" />
-  <a href="https://www.linkedin.com/in/adivya-tripathi-6419b628a/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" alt="LinkedIn Icon" />
-    <img width="12" />
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/unitivepluto659) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Adivya Tripathi) 
+  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adivyatripathi93@gmail.com) 
+
 </div>
 <p align="center">
   <strong>🐍 262 Contributions in 2025</strong>
