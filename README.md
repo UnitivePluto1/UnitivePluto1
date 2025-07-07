@@ -14,17 +14,12 @@
         <img src="https://github-readme-stats.vercel.app/api?username=UnitivePluto1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&cache_bust=1" height="150"  alt="stats graph" />
       </td>
       <td>
-        <img src="https://i.pinimg.com/736x/33/aa/de/33aade5720bba354fbf841a9b780709a.jpg" height="150" width="150" alt="avatar" />
+        <img src="https://i.pinimg.com/736x/33/aa/de/33aade5720bba354fbf841a9b780709a.jpg" height="150" width="180" alt="avatar" />
       </td>
     </tr>
   </table>
 </div>
 
-
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=UnitivePluto1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&cache_bust=1" height="150" alt="stats graph"  />
-  <img height="20" src="https://i.pinimg.com/736x/33/aa/de/33aade5720bba354fbf841a9b780709a.jpg"  />
-</div>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
