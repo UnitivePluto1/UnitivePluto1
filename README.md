@@ -55,5 +55,5 @@
 
 <p align="center" style="color:#ff8c00; font-family: 'Orbitron', sans-serif; font-size: 16px;">
   ✨ Thanks for visiting, See ya next time!✨<br/>
-  <span style="font-size:14px;">Made with ❤️ and a bit of coffee.</span>
+  <span style="font-size:14px;">Made with a lil bit of AI and a lil bit of coffee.</span>
 </p>
